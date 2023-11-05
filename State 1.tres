@@ -1,0 +1,13 @@
+[gd_resource type="Resource" script_class="State" load_steps=4 format=3 uid="uid://dslywe6r1yksj"]
+
+[ext_resource type="Script" path="res://StateMachine/State.cs" id="1_1b30g"]
+[ext_resource type="Resource" uid="uid://dd32ao1bl6be6" path="res://Wait For Second Action.tres" id="1_5yqu6"]
+[ext_resource type="Resource" uid="uid://hu076x6up5tk" path="res://Transition 1.tres" id="3_wunem"]
+
+[resource]
+resource_name = "State 1"
+script = ExtResource("1_1b30g")
+EnterActions = Array[Resource]([ExtResource("1_5yqu6")])
+UpdateActions = null
+ExitActions = null
+transitions = Array[Object]([ExtResource("3_wunem")])

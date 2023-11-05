@@ -1,3 +1,9 @@
-[gd_scene format=3 uid="uid://bgsa4kovlg4tc"]
+[gd_scene load_steps=3 format=3 uid="uid://bgsa4kovlg4tc"]
+
+[ext_resource type="Script" path="res://StateMachine/StateMachine.cs" id="1_cnia8"]
+[ext_resource type="Resource" uid="uid://dslywe6r1yksj" path="res://State 1.tres" id="2_67wma"]
 
 [node name="Node" type="Node"]
+script = ExtResource("1_cnia8")
+StartingState = ExtResource("2_67wma")
+LogStateData = true

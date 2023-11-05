@@ -1,4 +1,18 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1699146775
+::res://::1699147188
 icon.svg::CompressedTexture2D::2988269598237413931::1699146475::1699146479::1::::<><>::
 Main.tscn::PackedScene::2844764880947490172::1699146556::0::1::::<><>::
+Transition 2.tres::Resource/Transition::2534355914134519871::1699147199::0::1::::<><>::res://StateMachine/Transition.cs
+Transition 1.tres::Resource/Transition::534186195961746272::1699147195::0::1::::<><>::res://StateMachine/Transition.cs
+State 1.tres::Resource/State::8446866145941286357::1699147184::0::1::::<><>::res://StateMachine/State.cs
+State 2.tres::Resource/State::4048565466438829300::1699147188::0::1::::<><>::res://StateMachine/State.cs
+::res://StateMachine/::1699147133
+Action.cs::CSharpScript::-1::1699146892::0::1::::<><>::
+Decision.cs::CSharpScript::-1::1699147113::0::1::::Decision<>Resource<>::
+State.cs::CSharpScript::-1::1699147033::0::1::::State<>Resource<>::
+StateMachine.cs::CSharpScript::-1::1699146933::0::1::::StateMachine<>Node<>::
+Transition.cs::CSharpScript::-1::1699147133::0::1::::Transition<>Resource<>::
+::res://StateMachine/Actions/::1699147101
+WaitFor.cs::CSharpScript::-1::1699147101::0::1::::WaitFor<>Resource<>::
+::res://StateMachine/Decisions/::1699147075
+CheckAllActionsFinished.cs::CSharpScript::-1::1699147075::0::1::::CheckAllActionsFinished<>Decision<>::

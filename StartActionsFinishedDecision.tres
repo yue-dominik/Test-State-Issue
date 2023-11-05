@@ -1,0 +1,7 @@
+[gd_resource type="Resource" script_class="CheckAllActionsFinished" load_steps=2 format=3 uid="uid://lgbbg5uca32l"]
+
+[ext_resource type="Script" path="res://StateMachine/Decisions/CheckAllActionsFinished.cs" id="1_mqdh2"]
+
+[resource]
+script = ExtResource("1_mqdh2")
+actionsGroupToCheck = 0

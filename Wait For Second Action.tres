@@ -1,0 +1,7 @@
+[gd_resource type="Resource" script_class="WaitFor" load_steps=2 format=3 uid="uid://dd32ao1bl6be6"]
+
+[ext_resource type="Script" path="res://StateMachine/Actions/WaitFor.cs" id="1_x45g6"]
+
+[resource]
+script = ExtResource("1_x45g6")
+WaitTime = 1.0

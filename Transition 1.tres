@@ -1,0 +1,10 @@
+[gd_resource type="Resource" script_class="Transition" load_steps=4 format=3 uid="uid://hu076x6up5tk"]
+
+[ext_resource type="Script" path="res://StateMachine/Transition.cs" id="1_11s0r"]
+[ext_resource type="Resource" uid="uid://lgbbg5uca32l" path="res://StartActionsFinishedDecision.tres" id="1_rqycg"]
+[ext_resource type="Resource" uid="uid://bxxfjtxdgd54k" path="res://State 2.tres" id="2_opd7e"]
+
+[resource]
+script = ExtResource("1_11s0r")
+Decision = ExtResource("1_rqycg")
+TransitionState = ExtResource("2_opd7e")

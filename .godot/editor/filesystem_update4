@@ -5,3 +5,9 @@ res://StateMachine/Decisions/CheckAllActionsFinished.cs
 res://StateMachine/State.cs
 res://StateMachine/StateMachine.cs
 res://StateMachine/Transition.cs
+res://Main.tscn
+res://State 1.tres
+res://Transition 1.tres
+res://Wait For Second Action.tres
+res://Transition 2.tres
+res://State 2.tres
