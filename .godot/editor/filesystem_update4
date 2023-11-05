@@ -1,1 +1,7 @@
-res://Main.tscn
+res://StateMachine/Action.cs
+res://StateMachine/Actions/WaitFor.cs
+res://StateMachine/Decision.cs
+res://StateMachine/Decisions/CheckAllActionsFinished.cs
+res://StateMachine/State.cs
+res://StateMachine/StateMachine.cs
+res://StateMachine/Transition.cs

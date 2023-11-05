@@ -1,0 +1,17 @@
+C:\Users\domin\Repos\Godot\Test State Issue\.godot\mono\temp\obj\Debug\Test State Issue.csproj.AssemblyReference.cache
+C:\Users\domin\Repos\Godot\Test State Issue\.godot\mono\temp\obj\Debug\Test State Issue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\domin\Repos\Godot\Test State Issue\.godot\mono\temp\obj\Debug\Test State Issue.AssemblyInfoInputs.cache
+C:\Users\domin\Repos\Godot\Test State Issue\.godot\mono\temp\obj\Debug\Test State Issue.AssemblyInfo.cs
+C:\Users\domin\Repos\Godot\Test State Issue\.godot\mono\temp\obj\Debug\Test State Issue.csproj.CoreCompileInputs.cache
+C:\Users\domin\Repos\Godot\Test State Issue\.godot\mono\temp\bin\Debug\Test State Issue.deps.json
+C:\Users\domin\Repos\Godot\Test State Issue\.godot\mono\temp\bin\Debug\Test State Issue.runtimeconfig.json
+C:\Users\domin\Repos\Godot\Test State Issue\.godot\mono\temp\bin\Debug\Test State Issue.dll
+C:\Users\domin\Repos\Godot\Test State Issue\.godot\mono\temp\bin\Debug\Test State Issue.pdb
+C:\Users\domin\Repos\Godot\Test State Issue\.godot\mono\temp\bin\Debug\GodotSharp.dll
+C:\Users\domin\Repos\Godot\Test State Issue\.godot\mono\temp\bin\Debug\GodotSharpEditor.dll
+C:\Users\domin\Repos\Godot\Test State Issue\.godot\mono\temp\obj\Debug\Test State Issue.csproj.CopyComplete
+C:\Users\domin\Repos\Godot\Test State Issue\.godot\mono\temp\obj\Debug\Test State Issue.dll
+C:\Users\domin\Repos\Godot\Test State Issue\.godot\mono\temp\obj\Debug\refint\Test State Issue.dll
+C:\Users\domin\Repos\Godot\Test State Issue\.godot\mono\temp\obj\Debug\Test State Issue.pdb
+C:\Users\domin\Repos\Godot\Test State Issue\.godot\mono\temp\obj\Debug\Test State Issue.genruntimeconfig.cache
+C:\Users\domin\Repos\Godot\Test State Issue\.godot\mono\temp\obj\Debug\ref\Test State Issue.dll

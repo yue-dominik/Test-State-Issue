@@ -1,6 +1,5 @@
-namespace Nephtyke.StateMachine;
+﻿using Godot;
 
-using Godot;
 
 [GlobalClass]
 public partial class StateMachine: Node

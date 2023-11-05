@@ -1,7 +1,4 @@
-using Godot;
-
-namespace Nephtyke.StateMachine;
-
+﻿using Godot;
 
 public enum ActionsGroup
 {

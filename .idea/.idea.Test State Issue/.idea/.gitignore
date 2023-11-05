@@ -3,8 +3,8 @@
 /workspace.xml
 # Rider ignored files
 /modules.xml
+/.idea.Test State Issue.iml
 /projectSettingsUpdater.xml
-/.idea.StateMachine.iml
 /contentModel.xml
 # Editor-based HTTP Client requests
 /httpRequests/

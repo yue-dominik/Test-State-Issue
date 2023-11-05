@@ -1,7 +1,5 @@
 ﻿using Godot;
 
-namespace Nephtyke.StateMachine;
-
 [GlobalClass]
 public partial class WaitFor: Action
 {
